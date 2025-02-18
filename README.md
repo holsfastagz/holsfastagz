@@ -7,4 +7,4 @@
 💾 The things I code here are to help with our research and for practice.
 
 - LinkedIn: [https://linkedin/in/](https://www.linkedin.com/in/holsenm/)
-- School Email: [holsenmoore@utexas.edu]
+- School Email: holsenmoore@utexas.edu
