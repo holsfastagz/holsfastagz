@@ -11,13 +11,17 @@
 
 ---
 
-![Made with vim](assets/buttons/vim.png)
-![Computer and monitor](assets/buttons/bestvwmonitor.gif)
-![Anything but Chrome](assets/buttons/anythingbut.gif)
-![Hate Microsoft](assets/buttons/hatems.gif)
-![Queer coded](assets/buttons/queer.png)
+<p align="center">
+    <img src="assets/buttons/vim.png" width="88"/>
+    <img src="assets/buttons/bestvwmonitor.gif" width="88">
+    <img src="assets/buttons/anythingbut.gif", width="88">
+    <img src="assets/buttons/hatems.gif", width="88">
+    <img src="assets/buttons/queer.png", width="88">
+</p>
 
-![I suck at coding](assets/stamps/coding-stamp.png)
-![Penguin Dance](assets/stamps/penguindance.gif)
-![Webkinz](assets/stamps/webkins.jpg)
-![Lab Specimen](assets/stamps/lab-specimen.png)
+<p align="center">
+    <img src="assets/stamps/coding-stamp.png", width="80">
+    <img src="assets/stamps/penguindance.gif", width="80">
+    <img src="assets/stamps/webkinz.jpg", width="80">
+    <img src="assets/stamps/lab-specimen.png", width="80">
+</p>
