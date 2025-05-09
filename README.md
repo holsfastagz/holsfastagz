@@ -15,7 +15,7 @@
     <img src="assets/buttons/vim.png" width="88"/>
     <img src="assets/buttons/bestvwmonitor.gif" width="88">
     <img src="assets/buttons/anythingbut.gif", width="88">
-    <img src="assets/buttons/hatems.gif", width="88">
+    <img src="assets/buttons/hatems.jpg", width="88">
     <img src="assets/buttons/queer.png", width="88">
 </p>
 
